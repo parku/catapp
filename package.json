@@ -1,0 +1,12 @@
+{
+  "name": "catapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.5"
+  },
+  "description": "Generates cute cat names!",
+  "author": "Christian Goltz<christian.goltz@parku.com>"
+}
